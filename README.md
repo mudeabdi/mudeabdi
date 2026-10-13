@@ -9,8 +9,10 @@ Data professional with a strong Social Sciences and IT background, proficient in
 ## Certifications ##
 #  ALX AFRICA #
 1.Professional foundations
+
 2.Data Analytics
 
 # IBM #
 1.AI Literacy
+
 2.Data Literacy
