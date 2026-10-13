@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there I am  👋
 
 
-**mudeabdi/mudeabdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mudeabdi/mudeabdi** 
 
-Here are some ideas to get you started:
+## Description ##
+Data professional with a strong Social Sciences and IT background, proficient in data analytics, research, and technical reporting. Expert at transforming raw data into actionable insights that drive evidence-based decision-making. Skilled collaborator and a continuous learner who is committed to professional growth. Fluent in English, Swahili, and Somali, leveraging these skills to support strategic organizational objectives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Certifications ##
+#  ALX AFRICA #
+1.Professional foundations
+2.Data Analytics
 
+# IBM #
+1.AI Literacy
+2.Data Literacy
